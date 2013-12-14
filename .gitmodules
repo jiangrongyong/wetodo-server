@@ -1,3 +1,3 @@
 [submodule "src/plugins/wetodo"]
 	path = src/plugins/wetodo
-	url = /Users/jiangrongyong/Program/wetodo/wetodo
+	url = git@github.com:jiangrongyong/wetodo.git
